@@ -18,5 +18,5 @@ If you see any typos or formatting errors in a post, or any other issue that nee
 * BEM METHODOLOGY 
 
 
-**Link to published page 👉:** https://simeon4real.github.io/ 
+**Link to published page 👉:** https://simeon4real.github.io/Nexter/
 
